@@ -38,7 +38,7 @@ This project involves the design and implementation of a multi-stage BJT-based a
 ## 📁 Repository Contents
 
 - `report.pdf` — Complete report with explanation, methodology, calculations, waveforms, and results  
-- `schematic.png` — Schematic of the final amplifier design  
+- `Analog_project.asc` — Schematic of the final amplifier design  
 - `README.md` — This file  
 
 ---
@@ -51,6 +51,11 @@ This project involves the design and implementation of a multi-stage BJT-based a
 - **Frequency Response**: Plotted and bandwidth measured  
 - **Power Transfer Efficiency**: Maximized through proper topology selection and staging
 
+Breadboard Implementation:
+(https://github.com/VaidehiBhat/AnalogLabProject/blob/main/Breadboard%20Circuit.jpg)
+
+Oscilloscope Results:
+(https://github.com/VaidehiBhat/AnalogLabProject/blob/main/Oscilloscope%20result.jpg)
 
 
 ## ✅ Conclusion
