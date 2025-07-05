@@ -52,10 +52,12 @@ This project involves the design and implementation of a multi-stage BJT-based a
 - **Power Transfer Efficiency**: Maximized through proper topology selection and staging
 
 Breadboard Implementation:
-(https://github.com/VaidehiBhat/AnalogLabProject/blob/main/Breadboard%20Circuit.jpg)
+[![Watch the video]
+(https://github.com/VaidehiBhat/AnalogLabProject/blob/main/Breadboard%20Circuit.jpg)]
 
 Oscilloscope Results:
-(https://github.com/VaidehiBhat/AnalogLabProject/blob/main/Oscilloscope%20result.jpg)
+[![Watch the video]
+(https://github.com/VaidehiBhat/AnalogLabProject/blob/main/Oscilloscope%20result.jpg)]
 
 
 ## ✅ Conclusion
